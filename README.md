@@ -1,7 +1,7 @@
 # ChatApp
 Basic chat app using react native framework 
-Just for learning , thanks @https://github.com/FaridSafi/react-native-gifted-chat
+Just for learning , thanks to : https://github.com/FaridSafi/react-native-gifted-chat
 
 ## Demo
 
-[![Movies Demo](http://img.youtube.com/vi/2f-SEoEgsrE/0.jpg)](https://youtu.be/2f-SEoEgsrE)
+[![Chat Demo](http://img.youtube.com/vi/1unqE267EHg/0.jpg)](https://youtu.be/1unqE267EHg)
